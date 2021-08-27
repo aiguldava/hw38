@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hw38/static/css/main.91ed5ca4.chunk.css",
+    "main.js": "/hw38/static/js/main.f6fc4b48.chunk.js",
+    "main.js.map": "/hw38/static/js/main.f6fc4b48.chunk.js.map",
+    "runtime-main.js": "/hw38/static/js/runtime-main.3578bc3a.js",
+    "runtime-main.js.map": "/hw38/static/js/runtime-main.3578bc3a.js.map",
+    "static/js/2.af3a13e8.chunk.js": "/hw38/static/js/2.af3a13e8.chunk.js",
+    "static/js/2.af3a13e8.chunk.js.map": "/hw38/static/js/2.af3a13e8.chunk.js.map",
+    "index.html": "/hw38/index.html",
+    "static/css/main.91ed5ca4.chunk.css.map": "/hw38/static/css/main.91ed5ca4.chunk.css.map",
+    "static/js/2.af3a13e8.chunk.js.LICENSE.txt": "/hw38/static/js/2.af3a13e8.chunk.js.LICENSE.txt",
+    "static/media/1.738878c3.jpg": "/hw38/static/media/1.738878c3.jpg",
+    "static/media/avs.eb84905b.jpg": "/hw38/static/media/avs.eb84905b.jpg",
+    "static/media/brazil.4e06f2e1.jpg": "/hw38/static/media/brazil.4e06f2e1.jpg",
+    "static/media/keni.91f22eba.jpg": "/hw38/static/media/keni.91f22eba.jpg",
+    "static/media/kg.98afa187.jpg": "/hw38/static/media/kg.98afa187.jpg",
+    "static/media/kg1.d51661a4.jpg": "/hw38/static/media/kg1.d51661a4.jpg",
+    "static/media/kgjpg.a755dd33.jpg": "/hw38/static/media/kgjpg.a755dd33.jpg",
+    "static/media/korean.23a0fb2d.jpg": "/hw38/static/media/korean.23a0fb2d.jpg",
+    "static/media/russia.0cbb989e.jpg": "/hw38/static/media/russia.0cbb989e.jpg",
+    "static/media/uk.90affef3.jpg": "/hw38/static/media/uk.90affef3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3578bc3a.js",
+    "static/js/2.af3a13e8.chunk.js",
+    "static/css/main.91ed5ca4.chunk.css",
+    "static/js/main.f6fc4b48.chunk.js"
+  ]
+}
